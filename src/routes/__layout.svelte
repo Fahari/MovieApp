@@ -11,7 +11,7 @@
 <slot></slot>
 </main>
 <footer>
-<p class="foot">&copy; Kironji Kevin {present}</p>
+<p class="foot">&copy; <b>Kironji Kevin .</b> <b>{present}</b></p>
 </footer>
 
 <style>
